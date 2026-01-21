@@ -143,9 +143,6 @@ http://localhost:5173
 * **React**
 * **Vite**
 * **Tailwind CSS**
-* **Framer Motion**
-* **Recharts**
-* **Lucide React**
 
 
 
